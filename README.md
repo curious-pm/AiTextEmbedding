@@ -159,13 +159,14 @@ The closest phrases:
 ## Screenshots
 
 ### Chat Interface:
-<img src="https://github.com/user-attachments/assets/f913c6f0-36bc-4a55-aff6-e5f2b85a5392" style="width: 400px; image-rendering: optimizeSpeed;" alt="Chat Interface">
+<img src="https://github.com/user-attachments/assets/228aa563-1db7-404f-97dc-9c3005e29418" style="width: 400px; image-rendering: optimizeSpeed;" alt="Chat Interface">
+
 
 ### Single Text Analysis:
-<img src="https://github.com/user-attachments/assets/88144ea5-2fc0-418b-9b12-1d5a01172225" style="width: 400px; image-rendering: optimizeSpeed;" alt="Heatmap Visualization">
+<img src="https://github.com/user-attachments/assets/0ed87452-e93e-4b3c-ad7f-686f7e9d6221" style="width: 400px; image-rendering: optimizeSpeed;" alt="Single Text Analysis">
 
 ### Heatmap & Scatter Plot Visualization:
-<img src="https://github.com/user-attachments/assets/a310c9d1-f223-445e-ab8b-e6339feb22fe" style="width: 400px; image-rendering: optimizeSpeed;" alt="Scatter Plot Visualization">
+<img src="https://github.com/user-attachments/assets/5dd0b9cc-8f63-40a7-baad-5ddf34945c05" style="width: 400px; image-rendering: optimizeSpeed;" alt="Heatmap & Scatter Plot Visualization">
 
 ---
 
