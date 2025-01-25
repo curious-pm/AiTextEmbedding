@@ -287,6 +287,6 @@ st.markdown("---")
 
 st.markdown(
     """
-    [Visit Organization @Curios-PM](https://nas.io/curious-pm)
+    [Visit Organization @Curios-PM](https:curious.pm)
     """
 )
